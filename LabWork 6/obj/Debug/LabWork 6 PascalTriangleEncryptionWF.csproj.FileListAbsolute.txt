@@ -1,0 +1,21 @@
+C:\Users\doshu\source\repos\LabWork 6 PascalTriangleEncryptionWF\bin\Debug\LabWork 6 PascalTriangleEncryptionWF.exe.config
+C:\Users\doshu\source\repos\LabWork 6 PascalTriangleEncryptionWF\bin\Debug\LabWork 6 PascalTriangleEncryptionWF.exe
+C:\Users\doshu\source\repos\LabWork 6 PascalTriangleEncryptionWF\bin\Debug\LabWork 6 PascalTriangleEncryptionWF.pdb
+C:\Users\doshu\source\repos\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork 6 PascalTriangleEncryptionWF.csproj.AssemblyReference.cache
+C:\Users\doshu\source\repos\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork_6_PascalTriangleEncryptionWF.Form1.resources
+C:\Users\doshu\source\repos\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork_6_PascalTriangleEncryptionWF.Properties.Resources.resources
+C:\Users\doshu\source\repos\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork 6 PascalTriangleEncryptionWF.csproj.GenerateResource.cache
+C:\Users\doshu\source\repos\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork 6 PascalTriangleEncryptionWF.csproj.CoreCompileInputs.cache
+C:\Users\doshu\source\repos\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork 6 PascalTriangleEncryptionWF.exe
+C:\Users\doshu\source\repos\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork 6 PascalTriangleEncryptionWF.pdb
+C:\Users\mazaf\OneDrive\Рабочий стол\LabWork 6 PascalTriangleEncryptionWF\bin\Debug\LabWork 6 PascalTriangleEncryptionWF.exe.config
+C:\Users\mazaf\OneDrive\Рабочий стол\LabWork 6 PascalTriangleEncryptionWF\bin\Debug\LabWork 6 PascalTriangleEncryptionWF.exe
+C:\Users\mazaf\OneDrive\Рабочий стол\LabWork 6 PascalTriangleEncryptionWF\bin\Debug\LabWork 6 PascalTriangleEncryptionWF.pdb
+C:\Users\mazaf\OneDrive\Рабочий стол\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork 6 PascalTriangleEncryptionWF.csproj.AssemblyReference.cache
+C:\Users\mazaf\OneDrive\Рабочий стол\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork 6 PascalTriangleEncryptionWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\mazaf\OneDrive\Рабочий стол\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork_6_PascalTriangleEncryptionWF.Form1.resources
+C:\Users\mazaf\OneDrive\Рабочий стол\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork_6_PascalTriangleEncryptionWF.Properties.Resources.resources
+C:\Users\mazaf\OneDrive\Рабочий стол\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork 6 PascalTriangleEncryptionWF.csproj.GenerateResource.cache
+C:\Users\mazaf\OneDrive\Рабочий стол\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork 6 PascalTriangleEncryptionWF.csproj.CoreCompileInputs.cache
+C:\Users\mazaf\OneDrive\Рабочий стол\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork 6 PascalTriangleEncryptionWF.exe
+C:\Users\mazaf\OneDrive\Рабочий стол\LabWork 6 PascalTriangleEncryptionWF\obj\Debug\LabWork 6 PascalTriangleEncryptionWF.pdb
